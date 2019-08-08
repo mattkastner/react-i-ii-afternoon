@@ -1,0 +1,25 @@
+.data {
+    width: 70%;
+    height: auto;
+    background: #EBEBEB;
+    color: #222222;
+}
+
+.user-info {
+    padding: 40px;
+}
+
+.data > h1 {
+    float: right;
+    margin: 5px 10px 10px 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #35A4DA;
+
+}
+
+span {
+    font: bold;
+}
